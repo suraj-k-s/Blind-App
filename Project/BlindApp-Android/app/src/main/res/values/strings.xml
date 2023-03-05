@@ -1,0 +1,241 @@
+<resources>
+    <string name="app_name">Blind App</string>
+    <string-array name="route1">
+
+        <item>Perumbavoor - Kothamangalam</item>
+        <item>Perumbavoor - Kothamangalam</item>
+        <item>Perumbavoor - Kothamangalam</item>
+        <item>Perumbavoor - Kothamangalam</item>
+
+
+    </string-array>
+    <string-array name="bus1">
+
+
+        <item>KMS</item>
+        <item>Yathra</item>
+        <item>CMS</item>
+        <item>Karthika</item>
+
+
+    </string-array>
+    <string-array name="from1">
+
+        <item>Kottapadi</item>
+        <item>Kottapadi</item>
+        <item>Kottapadi</item>
+        <item>Kottapadi</item>
+
+
+    </string-array>
+    <string-array name="to1">
+
+        <item>Kothamangalam</item>
+        <item>Kothamangalam</item>
+        <item>Kothamangalam</item>
+        <item>Kothamangalam</item>
+
+
+    </string-array>
+
+    <string-array name="ftime1">
+
+        <item>10:00 AM</item>
+        <item>10:30 AM</item>
+        <item>11:00 AM</item>
+        <item>11:30 AM</item>
+
+
+    </string-array>
+
+    <string-array name="ttime1">
+
+
+        <item>10:30 AM</item>
+        <item>11:00 AM</item>
+        <item>11:30 AM</item>
+        <item>12:00 PM</item>
+
+
+    </string-array>
+
+    <string-array name="route2">
+
+        <item>Kothamangalam - Aluva</item>
+        <item>Kothamangalam - Aluva</item>
+        <item>Kothamangalam - Aluva</item>
+        <item>Kothamangalam - Aluva</item>
+
+
+    </string-array>
+    <string-array name="bus2">
+
+
+        <item>NEMS</item>
+        <item>KMS</item>
+        <item>PPK</item>
+        <item>Appus</item>
+
+
+    </string-array>
+    <string-array name="from2">
+
+        <item>Kottapadi</item>
+        <item>Kottapadi</item>
+        <item>Kottapadi</item>
+        <item>Kottapadi</item>
+
+
+    </string-array>
+    <string-array name="to2">
+
+        <item>Aluva</item>
+        <item>Aluva</item>
+        <item>Aluva</item>
+        <item>Aluva</item>
+
+
+    </string-array>
+
+    <string-array name="ftime2">
+
+        <item>09:00 AM</item>
+        <item>10:00 AM</item>
+        <item>10:30 AM</item>
+        <item>11:00 AM</item>
+
+
+    </string-array>
+
+    <string-array name="ttime2">
+
+
+        <item>10:30 AM</item>
+        <item>11:30 AM</item>
+        <item>12:00 PM</item>
+        <item>12:30 PM</item>
+
+
+    </string-array>
+
+    <string-array name="route3">
+
+        <item>Kothamangalam - Perumbavoor</item>
+        <item>Kothamangalam - Perumbavoor</item>
+        <item>Kothamangalam - Perumbavoor</item>
+        <item>Kothamangalam - Perumbavoor</item>
+
+
+    </string-array>
+    <string-array name="bus3">
+
+
+        <item>St.Marys</item>
+        <item>Thusharam</item>
+        <item>Flying</item>
+        <item>Yuvarani</item>
+
+
+    </string-array>
+    <string-array name="from3">
+
+        <item>Kottapadi</item>
+        <item>Kottapadi</item>
+        <item>Kottapadi</item>
+        <item>Kottapadi</item>
+
+
+    </string-array>
+    <string-array name="to3">
+
+        <item>Perumbavoor</item>
+        <item>Perumbavoor</item>
+        <item>Perumbavoor</item>
+        <item>Perumbavoor</item>
+
+
+    </string-array>
+
+    <string-array name="ftime3">
+
+        <item>10:00 AM</item>
+        <item>10:30 AM</item>
+        <item>11:30 AM</item>
+        <item>12:00 PM</item>
+
+
+    </string-array>
+
+    <string-array name="ttime3">
+
+
+        <item>10:30 AM</item>
+        <item>11:30 AM</item>
+        <item>12:00 PM</item>
+        <item>12:30 PM</item>
+
+
+    </string-array>
+
+
+    <string-array name="route4">
+
+        <item>Perumbavoor - Adimali</item>
+        <item>Perumbavoor - Adimali</item>
+        <item>Perumbavoor - Adimali</item>
+        <item>Perumbavoor - Adimali</item>
+
+
+    </string-array>
+    <string-array name="bus4">
+
+
+        <item>Comrade</item>
+        <item>Maharajas</item>
+        <item>MMS</item>
+        <item>Vinayaka</item>
+
+
+    </string-array>
+    <string-array name="from4">
+
+        <item>Kottapadi</item>
+        <item>Kottapadi</item>
+        <item>Kottapadi</item>
+        <item>Kottapadi</item>
+
+
+    </string-array>
+    <string-array name="to4">
+
+        <item>Adimali</item>
+        <item>Adimali</item>
+        <item>Adimali</item>
+        <item>Adimali</item>
+
+
+    </string-array>
+
+    <string-array name="ftime4">
+
+        <item>09:00 AM</item>
+        <item>09:30 AM</item>
+        <item>10:00 AM</item>
+        <item>10:30 AM</item>
+
+
+    </string-array>
+
+    <string-array name="ttime4">
+
+
+        <item>10:30 AM</item>
+        <item>11:00 AM</item>
+        <item>11:30 AM</item>
+        <item>12:00 PM</item>
+
+
+    </string-array>
+
+
+</resources>
